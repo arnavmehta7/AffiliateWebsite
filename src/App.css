@@ -5437,6 +5437,7 @@ select:focus {
   padding: 110px 0px 120px;
   background: #F7F9FF;
   position: relative;
+  overflow: hidden;
 }
 .dealofweek .deal-slider-area {
   background: #fff;
