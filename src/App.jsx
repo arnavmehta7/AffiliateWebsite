@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import w3 from "./assets/images/w3.png";
 import logoColor from "./assets/images/logo-color.png";
 import w4 from "./assets/images/w4.png";
+import w5 from "./assets/images/w5.png";
 import w1 from "./assets/images/w1.png";
 import w2 from "./assets/images/w1.png";
 import Header from "./components/Header";
@@ -286,7 +287,7 @@ function App() {
           <div className="row row-one">
             <div className="col-lg-6 d-flex">
               <div className="about-img">
-                <img src={w4} alt="" />
+                <img src={w5} alt="" />
               </div>
             </div>
             <div className="col-lg-6">
