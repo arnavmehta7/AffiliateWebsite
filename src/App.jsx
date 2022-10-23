@@ -7,7 +7,7 @@ import logoColor from "./assets/images/logo-color.png";
 import w4 from "./assets/images/w4.png";
 import w5 from "./assets/images/w5.png";
 import w1 from "./assets/images/w1.png";
-import w2 from "./assets/images/w1.png";
+import w2 from "./assets/images/w2.png";
 import Header from "./components/Header";
 
 function App() {
@@ -143,9 +143,7 @@ function App() {
                             </ul>
                             <h4 className="name">Starter Pack</h4>
                             <p className="description">
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit. Magnam illo reiciendis saepe molestias
-                              veritatis!
+                              Hurry up buy now and join us!!!
                             </p>
                             <div className="price">
                               <p>
@@ -195,9 +193,7 @@ function App() {
                             </ul>
                             <h4 className="name">Advance Pack</h4>
                             <p className="description">
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit. Magnam illo reiciendis saepe molestias
-                              veritatis!
+                              Hurry up buy now and join us!!!
                             </p>
                             <div className="price">
                               <p>
@@ -224,7 +220,7 @@ function App() {
                       <div className="row">
                         <div className="col-lg-6">
                           <div className="left-area">
-                            <img src={w3} alt="" />
+                            <img src={w2} alt="" />
                           </div>
                         </div>
                         <div className="col-lg-6 d-flex">
@@ -248,9 +244,7 @@ function App() {
                             </ul>
                             <h4 className="name">Expert Pack</h4>
                             <p className="description">
-                              Lorem ipsum dolor sit amet consectetur adipisicing
-                              elit. Magnam illo reiciendis saepe molestias
-                              veritatis!
+                              Hurry up buy now and join us!!!
                             </p>
                             <div className="price">
                               <p>
