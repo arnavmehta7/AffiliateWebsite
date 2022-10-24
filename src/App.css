@@ -39,6 +39,9 @@
       font-family: Flaticon;
       font-style: normal;
     }
+    .whaybest{
+      overflow: hidden;
+    }
     
     .flaticon-art:before { content: "\f100"; }
     .flaticon-apps:before { content: "\f101"; }
